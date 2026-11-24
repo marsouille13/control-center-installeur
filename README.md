@@ -25,14 +25,14 @@ nouveau logiciel.
 
 ## Vérifier le fichier
 
-Empreinte SHA-256 de la version 1.0.0 :
+Empreinte SHA-256 de la version 1.1.0 :
 
 ```
-1b0e2c980a7f5a69b6788196b3e47843581a03172e1c62d8c7735c4ffa54032e
+60bd6764a1100708e006cbe3b2b88f90146369c8d0628fa85f1cbca2c175b1af
 ```
 
 Dans PowerShell : `Get-FileHash .\ControlCenter-Installeur.exe`
 
 ## Ce dépôt
 
-Ce dépôt sert seulement à distribuer l'installeur. Le code du Control Center n'y est pas.
+Ce dépôt sert seulement à distribuer l'installeur et l'archive du plugin qu'il installe. Le code du Control Center n'y est pas.
